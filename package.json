@@ -1,6 +1,6 @@
 {
   "name": "@js-emitter/event-emitter-light",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "EventEmitter + EventEmitterSingleton",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
