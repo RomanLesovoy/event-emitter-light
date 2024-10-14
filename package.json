@@ -1,5 +1,5 @@
 {
-  "name": "event-emitter-light",
+  "name": "@js-emitter/event-emitter-light",
   "version": "1.0.0",
   "description": "EventEmitter + EventEmitterSingleton",
   "main": "./dist/index.js",
